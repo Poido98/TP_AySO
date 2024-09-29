@@ -1,1 +1,2 @@
 Usuario=poido
+model name	: 13th Gen Intel(R) Core(TM) i5-1335U
