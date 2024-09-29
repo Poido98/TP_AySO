@@ -1,0 +1,293 @@
+sudo apt update
+su -
+sudo apt update
+sudo apt upgrade
+list
+cd desktop
+cd Desktop
+cd 
+cd Desktop/
+cd list
+cd
+sudo mount /deev/cdrom /media/cdrom
+cd /media
+cd cdrom
+ls
+..
+.
+cd media
+ls
+cd
+cd media
+cd Desktop
+cd /media
+//
+cd
+cd /media
+ls
+cd poido
+ls
+cd VBox_GAs_7.0.20
+ls
+cd VBoxLinuxAdditions.run
+sudo VBoxLinuxAdditions.run
+sudo sh VBoxLinuxAdditions.run
+cd
+ls
+Desktop
+cd Desktop
+ismod | grep vboxguest
+lsmod | grep vboxguest
+VboxControl --version
+whoami
+id
+poido@ubuntu22:~$ sudo visudo
+poido@Ubuntu:~$ sudo visudo
+sudo visudo
+user add 
+user add yo
+man useradd
+user add
+sudo useradd yo
+sudo adduser yo
+sudo groupadd prueba
+usermod
+id
+sudo usermod -aG prueba yo
+id yo
+cat/etc/passwd
+cat /etc/passwd
+grep prueba /etc/group
+sudo passwd yo
+pwd
+mkdir arq y sist
+rm arq
+rm -r arq
+rm -r arq sist
+rm -r y
+mkdir arqysist
+mv arqysist /poido
+mv arqysist /pip
+sudo mv arqysist /pip mv arqysist /pip
+mkdir /home/yo
+sudo mkdir /home/yo
+sudo chown yo:prueba /home/yo
+sudo mkdir /home/guille
+sudo chgrp -R prueba /home/guille
+sudo chmod -R g+rwx/home/guille
+sudo chmod -R g+rwx /home/guille
+apropos network
+history
+uname -a
+man cat
+lscpu
+nano if_example.sh
+ls > listado_directorio.txt
+echo "Usuario=" $(whoami) > infousuario.txt
+df >> espacio_disco.txt
+ls | tee listado_directorio.txt
+clear
+sudo useradd temp
+sudo groupadd ejercicio
+groups temp
+sudo user temp ejercicio
+sudo adduser temp ejercicio
+groups temp
+cd
+ls
+cd home/
+cd Home/
+cd ..
+ls
+cd yo/
+mkdir ejercicio1
+cd
+cd ..
+ls
+cd poido/
+ls
+mkdir ejercicio1
+ls
+cd ejercicio1/
+cd
+sudo -i
+sudo apt install nano
+cd ..
+ls
+cd poido/
+ls
+cd ejercicio1
+nano fichero1.txt
+ls
+touch fichero2.txt
+ls
+cat/etc/groups > fichero2.txt
+cat /etc/group > fichero2.txt
+clear
+usermod -aG ejercicio temp
+cd
+ls
+cd ..
+usermod -aG ejercicio temp
+ls
+cd poido/
+ls
+cd ejercicio1
+nano -v
+cat /etc/group | grep ejercicio >> fichero1.txt
+mv fichero1.txt ficheron.txt
+cd
+ls
+mkdir ejercicio2
+cd ejercicio1
+cp /home/ejercicio1/ficheron.txt /home/ejercicio2
+cp /home/ejercicio1/ficheron.txt > /home/ejercicio2
+cp /home/ejercicio1/ficheron.txt /home/ejercicio2
+cd
+lsblk
+cd ..
+ls
+lsblk
+ls
+psaux
+ps aux
+clear
+ls
+cd /Desktop
+cd ..
+cd
+pwd
+ls -l
+cd
+sudo add group g1
+sudo addgroup g1
+sudo addgroup g2
+usermod -aG g1 u1
+[200~echo "Introduce un número:"
+read numero
+ls -l
+ch chmod u+x
+chmod u+x f1.sh
+nano f1.sh
+./f1.sh
+chmod u+x f1.sh
+./f1.sh
+free -h
+ls
+sudo mkdir /mnt/disco
+ls
+sudo mkfs.ext4 /dev/Ubuntu_1.vdi
+sudo mount /dev/Ubuntu_1.vdi /mnt/disco
+lsblk
+sudo mkdir /mnt/disco
+sudo mkfs.ext4 /dev/sdb
+sudo mount /dev/sdb /mnt/disco
+lsblk
+lsof /mnt/disco
+lsblk
+sudo umount /mnt/disco
+lsblk
+pws
+pwd
+cd File System
+cd Filesystem
+ls
+ssh-heygen
+ssh-keygen
+pwd
+ls
+ls
+cd .ssh
+pwd
+ls
+cat $HOME/.ssh/*.pub
+cd
+pwd
+cd
+ls
+mkdir repogit
+ls
+cd repogit
+git clone [200~git@github.com:Poido98/TP_AySO.git~
+git clone git@github.com:Poido98/TP_AySO.git~
+git clone git@github.com:Poido98/TP_AySO.git
+sudo apt install git
+git clone git@github.com:Poido98/TP_AySO.git
+ls
+cd TP_AySO/
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i Home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+ls
+git add .
+git config --global user.email poidomaninahuel@gmail.com
+git config --global user.name Poido98
+git commit -m "Agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+cpuinfo
+cat /home/poido/Filesystem/proc
+pwd
+cd
+ls
+cd /File System
+cd /Filesystem
+cd /
+ls
+cd proc
+ls
+pwd
+cat /proc/cpuinfo
+grep "model name" /proc/cpuinfo | head -n 1 >> datos_usuario.txt
+cd
+ls
+pwd
+cd repogit/TP_AySO
+grep "model name" /proc/cpuinfo | head -n 1 >> datos_usuario.txt
+git add .
+git status
+git commit -m "Añadimos la informacion del CPU"
+man sort
+man grep
+grep -v "no-login" /etc/passwd | sort: -k7,7 | head -n 10 > lista_ordenada.txt
+grep -v "no-login" /etc/passwd | sort -k7,7 | head -n 10 > lista_ordenada.txt
+cat lista_ordenada.txt 
+git add .
+git status
+git commit -m "Agregamos listado de usuarios ordenada"
+echo "tcpdump" > comando_dump_net.txt
+echo "comando uusado para buscar: grep -i "dump traffic"" >> comando_dump_net.txt 
+cat comando_dump_net.txt 
+git add .
+git status
+git commit -m "Comando para Capturar y analizar el tráfico de red"
+cat << EOF >> README.md Alumno: Nahuel Poidomani Divisi�on: 315 Turno: Noche EOF
+
+
+s
+dsd
+
+sd
+d
+tytytyty
+t
+y
+ty
+EOF
+
+cat << EOF >> README.md
+Alumno: Nahuel Poidomani
+División: 315
+Turno: Mañana
+EOF
+
+cat README.md 
+git add .
+git status
+git commit -m "Modificamos el readme agregando nombre, division y tunrno"
+history -a
