@@ -1,0 +1,2 @@
+tcpdump
+comando uusado para buscar: grep -i "dump traffic"
