@@ -1,0 +1,10 @@
+_apt:x:105:65534::/nonexistent:/usr/sbin/nologin
+avahi-autoipd:x:109:119:Avahi autoip daemon,,,:/var/lib/avahi-autoipd:/usr/sbin/nologin
+avahi:x:113:120:Avahi mDNS daemon,,,:/run/avahi-daemon:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+colord:x:123:131:colord colour management daemon,,,:/var/lib/colord:/usr/sbin/nologin
+cups-pk-helper:x:114:121:user for cups-pk-helper service,,,:/home/cups-pk-helper:/usr/sbin/nologin
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+dnsmasq:x:111:65534:dnsmasq,,,:/var/lib/misc:/usr/sbin/nologin
+_flatpak:x:125:133:Flatpak system-wide installation helper,,,:/nonexistent:/usr/sbin/nologin
